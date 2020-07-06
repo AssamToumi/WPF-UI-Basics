@@ -1,0 +1,15 @@
+B:\Sources\WPF UI\WpfAppUI\bin\Debug\WpfAppUI.exe.config
+B:\Sources\WPF UI\WpfAppUI\bin\Debug\WpfAppUI.exe
+B:\Sources\WPF UI\WpfAppUI\bin\Debug\WpfAppUI.pdb
+B:\Sources\WPF UI\WpfAppUI\obj\Debug\WpfAppUI.csprojAssemblyReference.cache
+B:\Sources\WPF UI\WpfAppUI\obj\Debug\MainWindow.g.cs
+B:\Sources\WPF UI\WpfAppUI\obj\Debug\App.g.cs
+B:\Sources\WPF UI\WpfAppUI\obj\Debug\WpfAppUI_MarkupCompile.cache
+B:\Sources\WPF UI\WpfAppUI\obj\Debug\WpfAppUI_MarkupCompile.lref
+B:\Sources\WPF UI\WpfAppUI\obj\Debug\MainWindow.baml
+B:\Sources\WPF UI\WpfAppUI\obj\Debug\WpfAppUI.g.resources
+B:\Sources\WPF UI\WpfAppUI\obj\Debug\WpfAppUI.Properties.Resources.resources
+B:\Sources\WPF UI\WpfAppUI\obj\Debug\WpfAppUI.csproj.GenerateResource.cache
+B:\Sources\WPF UI\WpfAppUI\obj\Debug\WpfAppUI.csproj.CoreCompileInputs.cache
+B:\Sources\WPF UI\WpfAppUI\obj\Debug\WpfAppUI.exe
+B:\Sources\WPF UI\WpfAppUI\obj\Debug\WpfAppUI.pdb
